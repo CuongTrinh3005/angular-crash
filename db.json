@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Go to work",
+      "day": "9am daily",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Daily Meeting",
+      "day": "9:30 am daily",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Commit Code",
+      "day": "5pm daily",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Update Ticket",
+      "day": "5:10pm daily",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
